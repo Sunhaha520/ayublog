@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>头节点和尾指针的思考</title>
+      <link href="/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/"/>
+      <url>/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/</url>
+      
+        <content type="html"><![CDATA[<h1 id="我的疑惑"><a href="#我的疑惑" class="headerlink" title="我的疑惑"></a>我的疑惑</h1><p>各种链表有何作用？头节点和尾指针存在的意义又是什么？是最近困扰我的问题，虽然书上给出了不少解释，但是还是很难理解。</p><h1 id="单循环链表"><a href="#单循环链表" class="headerlink" title="单循环链表"></a>单循环链表</h1><p> 对于单链表而言，如果每次在遍历到单链表中间处时需要遍历整个链表，此时只能往后遍历，前方的指针便会丢失。如图所示，此时若链表遍历到a2处依旧可以通过尾结点循环到a1处，这是单链表所不能解决的。 </p><p><img src="http://upload-images.jianshu.io/upload_images/26206620-e4f2c7d08da07b36.png"></p><h1 id="带头结点头指针的单循环链表"><a href="#带头结点头指针的单循环链表" class="headerlink" title="带头结点头指针的单循环链表"></a><strong>带头结点头指针的单循环链表</strong></h1><p> 关于单链表的存取，有时候我们在单链表的第一个结点（有效元素）之前附设一个结点，称之为头结点；指向头结点的指针，称之为头指针如图； </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ✍️数据结构 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>青龙面板搭建（云服务器版）</title>
       <link href="/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/"/>
       <url>/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/</url>
