@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿宇博客</title>
-  <icon>https://sunhaha520.github.io/icon.png</icon>
+  <icon>https://blog.xiaoayu.ren/icon.png</icon>
   <subtitle>永远保持激情与热爱</subtitle>
-  <link href="https://sunhaha520.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.xiaoayu.ren/atom.xml" rel="self"/>
   
-  <link href="https://sunhaha520.github.io/"/>
+  <link href="https://blog.xiaoayu.ren/"/>
   <updated>2022-02-25T13:40:01.614Z</updated>
-  <id>https://sunhaha520.github.io/</id>
+  <id>https://blog.xiaoayu.ren/</id>
   
   <author>
     <name>小阿宇</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>头节点和尾指针的思考</title>
-    <link href="https://sunhaha520.github.io/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/"/>
-    <id>https://sunhaha520.github.io/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <link href="https://blog.xiaoayu.ren/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>https://blog.xiaoayu.ren/2022/02/25/%E5%A4%B4%E8%8A%82%E7%82%B9%E5%92%8C%E5%B0%BE%E6%8C%87%E9%92%88%E7%9A%84%E6%80%9D%E8%80%83/</id>
     <published>2022-02-25T12:43:49.000Z</published>
     <updated>2022-02-25T13:40:01.614Z</updated>
     
@@ -28,17 +28,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="✍️数据结构" scheme="https://sunhaha520.github.io/tags/%E2%9C%8D%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="✍️数据结构" scheme="https://blog.xiaoayu.ren/tags/%E2%9C%8D%EF%B8%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
     <title>青龙面板搭建（云服务器版）</title>
-    <link href="https://sunhaha520.github.io/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/"/>
-    <id>https://sunhaha520.github.io/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/</id>
+    <link href="https://blog.xiaoayu.ren/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/"/>
+    <id>https://blog.xiaoayu.ren/2022/02/20/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF%E6%90%AD%E5%BB%BA%EF%BC%88%E4%BA%AC%E4%B8%9C%E7%BE%8A%E6%AF%9B%EF%BC%89/</id>
     <published>2022-02-20T13:31:00.000Z</published>
     <updated>2022-04-28T06:15:44.050Z</updated>
     
@@ -47,17 +47,17 @@
     
     
     
-    <category term="项目案例" scheme="https://sunhaha520.github.io/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
+    <category term="项目案例" scheme="https://blog.xiaoayu.ren/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
     
     
-    <category term="🐏羊毛" scheme="https://sunhaha520.github.io/tags/%F0%9F%90%8F%E7%BE%8A%E6%AF%9B/"/>
+    <category term="🐏羊毛" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%90%8F%E7%BE%8A%E6%AF%9B/"/>
     
   </entry>
   
   <entry>
     <title>我对土木工程的一些看法</title>
-    <link href="https://sunhaha520.github.io/2021/10/15/%E6%88%91%E5%AF%B9%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9C%8B%E6%B3%95/"/>
-    <id>https://sunhaha520.github.io/2021/10/15/%E6%88%91%E5%AF%B9%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9C%8B%E6%B3%95/</id>
+    <link href="https://blog.xiaoayu.ren/2021/10/15/%E6%88%91%E5%AF%B9%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9C%8B%E6%B3%95/"/>
+    <id>https://blog.xiaoayu.ren/2021/10/15/%E6%88%91%E5%AF%B9%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9C%8B%E6%B3%95/</id>
     <published>2021-10-15T03:02:55.000Z</published>
     <updated>2022-04-28T06:15:08.465Z</updated>
     
@@ -66,17 +66,17 @@
     
     
     
-    <category term="闲聊灌水" scheme="https://sunhaha520.github.io/categories/%E9%97%B2%E8%81%8A%E7%81%8C%E6%B0%B4/"/>
+    <category term="闲聊灌水" scheme="https://blog.xiaoayu.ren/categories/%E9%97%B2%E8%81%8A%E7%81%8C%E6%B0%B4/"/>
     
     
-    <category term="🎉闲聊" scheme="https://sunhaha520.github.io/tags/%F0%9F%8E%89%E9%97%B2%E8%81%8A/"/>
+    <category term="🎉闲聊" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8E%89%E9%97%B2%E8%81%8A/"/>
     
   </entry>
   
   <entry>
     <title>人脸识别系统</title>
-    <link href="https://sunhaha520.github.io/2021/10/11/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://sunhaha520.github.io/2021/10/11/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://blog.xiaoayu.ren/2021/10/11/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://blog.xiaoayu.ren/2021/10/11/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-10-11T09:32:25.000Z</published>
     <updated>2022-04-28T06:14:36.278Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👀计算机视觉" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%80%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    <category term="👀计算机视觉" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%80%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
     
   </entry>
   
   <entry>
     <title>OpenCV的简单应用之物体识别</title>
-    <link href="https://sunhaha520.github.io/2021/10/10/Opencv%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8%E4%B9%8B%E7%89%A9%E4%BD%93%E8%AF%86%E5%88%AB/"/>
-    <id>https://sunhaha520.github.io/2021/10/10/Opencv%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8%E4%B9%8B%E7%89%A9%E4%BD%93%E8%AF%86%E5%88%AB/</id>
+    <link href="https://blog.xiaoayu.ren/2021/10/10/Opencv%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8%E4%B9%8B%E7%89%A9%E4%BD%93%E8%AF%86%E5%88%AB/"/>
+    <id>https://blog.xiaoayu.ren/2021/10/10/Opencv%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8%E4%B9%8B%E7%89%A9%E4%BD%93%E8%AF%86%E5%88%AB/</id>
     <published>2021-10-10T13:18:43.000Z</published>
     <updated>2022-04-28T06:16:00.433Z</updated>
     
@@ -104,17 +104,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👀计算机视觉" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%80%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    <category term="👀计算机视觉" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%80%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
     
   </entry>
   
   <entry>
     <title>基于C++的员工管理系统</title>
-    <link href="https://sunhaha520.github.io/2021/10/04/%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://sunhaha520.github.io/2021/10/04/%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://blog.xiaoayu.ren/2021/10/04/%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://blog.xiaoayu.ren/2021/10/04/%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-10-04T14:05:15.000Z</published>
     <updated>2021-12-01T08:54:38.808Z</updated>
     
@@ -123,17 +123,17 @@
     
     
     
-    <category term="项目案例" scheme="https://sunhaha520.github.io/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
+    <category term="项目案例" scheme="https://blog.xiaoayu.ren/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
     
     
-    <category term="🎖️C++ 实例" scheme="https://sunhaha520.github.io/tags/%F0%9F%8E%96%EF%B8%8FC-%E5%AE%9E%E4%BE%8B/"/>
+    <category term="🎖️C++ 实例" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8E%96%EF%B8%8FC-%E5%AE%9E%E4%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>C++进阶(四)类和对象-封装</title>
-    <link href="https://sunhaha520.github.io/2021/08/17/C-%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/"/>
-    <id>https://sunhaha520.github.io/2021/08/17/C-%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/17/C-%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/17/C-%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
     <published>2021-08-17T05:11:20.000Z</published>
     <updated>2021-12-01T08:52:33.847Z</updated>
     
@@ -142,17 +142,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👍C++ 进阶" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
+    <category term="👍C++ 进阶" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
     
   </entry>
   
   <entry>
     <title>C++进阶(三)函数提高</title>
-    <link href="https://sunhaha520.github.io/2021/08/17/%E5%87%BD%E6%95%B0%E6%8F%90%E9%AB%98/"/>
-    <id>https://sunhaha520.github.io/2021/08/17/%E5%87%BD%E6%95%B0%E6%8F%90%E9%AB%98/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/17/%E5%87%BD%E6%95%B0%E6%8F%90%E9%AB%98/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/17/%E5%87%BD%E6%95%B0%E6%8F%90%E9%AB%98/</id>
     <published>2021-08-17T02:24:35.000Z</published>
     <updated>2021-12-01T08:49:59.714Z</updated>
     
@@ -161,17 +161,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👍C++ 进阶" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
+    <category term="👍C++ 进阶" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
     
   </entry>
   
   <entry>
     <title>C++进阶(二)引用</title>
-    <link href="https://sunhaha520.github.io/2021/08/16/C-%E8%BF%9B%E9%98%B6/"/>
-    <id>https://sunhaha520.github.io/2021/08/16/C-%E8%BF%9B%E9%98%B6/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/16/C-%E8%BF%9B%E9%98%B6/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/16/C-%E8%BF%9B%E9%98%B6/</id>
     <published>2021-08-16T07:38:59.000Z</published>
     <updated>2021-12-01T08:47:29.427Z</updated>
     
@@ -180,17 +180,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👍C++ 进阶" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
+    <category term="👍C++ 进阶" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
     
   </entry>
   
   <entry>
     <title>C++进阶(一)之内存分区模型</title>
-    <link href="https://sunhaha520.github.io/2021/08/16/C-%E8%BF%9B%E9%98%B6%E4%B9%8B%E5%86%85%E5%AD%98%E5%88%86%E5%8C%BA%E6%A8%A1%E5%9E%8B/"/>
-    <id>https://sunhaha520.github.io/2021/08/16/C-%E8%BF%9B%E9%98%B6%E4%B9%8B%E5%86%85%E5%AD%98%E5%88%86%E5%8C%BA%E6%A8%A1%E5%9E%8B/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/16/C-%E8%BF%9B%E9%98%B6%E4%B9%8B%E5%86%85%E5%AD%98%E5%88%86%E5%8C%BA%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/16/C-%E8%BF%9B%E9%98%B6%E4%B9%8B%E5%86%85%E5%AD%98%E5%88%86%E5%8C%BA%E6%A8%A1%E5%9E%8B/</id>
     <published>2021-08-16T02:18:45.000Z</published>
     <updated>2021-12-01T08:46:27.496Z</updated>
     
@@ -199,17 +199,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="👍C++ 进阶" scheme="https://sunhaha520.github.io/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
+    <category term="👍C++ 进阶" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%91%8DC-%E8%BF%9B%E9%98%B6/"/>
     
   </entry>
   
   <entry>
     <title>C++实战之通讯录管理系统</title>
-    <link href="https://sunhaha520.github.io/2021/08/15/C-%E5%AE%9E%E6%88%98%E4%B9%8B%E9%80%9A%E8%AE%AF%E5%BD%95%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://sunhaha520.github.io/2021/08/15/C-%E5%AE%9E%E6%88%98%E4%B9%8B%E9%80%9A%E8%AE%AF%E5%BD%95%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/15/C-%E5%AE%9E%E6%88%98%E4%B9%8B%E9%80%9A%E8%AE%AF%E5%BD%95%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/15/C-%E5%AE%9E%E6%88%98%E4%B9%8B%E9%80%9A%E8%AE%AF%E5%BD%95%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-08-15T08:43:33.000Z</published>
     <updated>2021-12-01T08:44:49.151Z</updated>
     
@@ -218,17 +218,17 @@
     
     
     
-    <category term="项目案例" scheme="https://sunhaha520.github.io/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
+    <category term="项目案例" scheme="https://blog.xiaoayu.ren/categories/%E9%A1%B9%E7%9B%AE%E6%A1%88%E4%BE%8B/"/>
     
     
-    <category term="🎖️C++ 实例" scheme="https://sunhaha520.github.io/tags/%F0%9F%8E%96%EF%B8%8FC-%E5%AE%9E%E4%BE%8B/"/>
+    <category term="🎖️C++ 实例" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8E%96%EF%B8%8FC-%E5%AE%9E%E4%BE%8B/"/>
     
   </entry>
   
   <entry>
     <title>第八节:C++结构体基本概念</title>
-    <link href="https://sunhaha520.github.io/2021/08/15/%E7%AC%AC%E5%85%AB%E8%8A%82-C-%E7%BB%93%E6%9E%84%E4%BD%93%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/"/>
-    <id>https://sunhaha520.github.io/2021/08/15/%E7%AC%AC%E5%85%AB%E8%8A%82-C-%E7%BB%93%E6%9E%84%E4%BD%93%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/15/%E7%AC%AC%E5%85%AB%E8%8A%82-C-%E7%BB%93%E6%9E%84%E4%BD%93%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/15/%E7%AC%AC%E5%85%AB%E8%8A%82-C-%E7%BB%93%E6%9E%84%E4%BD%93%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</id>
     <published>2021-08-15T01:46:56.000Z</published>
     <updated>2021-12-01T08:42:06.396Z</updated>
     
@@ -237,17 +237,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第七节:C++指针</title>
-    <link href="https://sunhaha520.github.io/2021/08/14/C-%E6%8C%87%E9%92%88/"/>
-    <id>https://sunhaha520.github.io/2021/08/14/C-%E6%8C%87%E9%92%88/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/14/C-%E6%8C%87%E9%92%88/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/14/C-%E6%8C%87%E9%92%88/</id>
     <published>2021-08-14T07:19:41.000Z</published>
     <updated>2021-12-01T08:40:28.104Z</updated>
     
@@ -256,17 +256,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第六节:C++函数</title>
-    <link href="https://sunhaha520.github.io/2021/08/13/C-%E5%87%BD%E6%95%B0/"/>
-    <id>https://sunhaha520.github.io/2021/08/13/C-%E5%87%BD%E6%95%B0/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/13/C-%E5%87%BD%E6%95%B0/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/13/C-%E5%87%BD%E6%95%B0/</id>
     <published>2021-08-13T04:02:28.000Z</published>
     <updated>2021-12-01T08:38:32.262Z</updated>
     
@@ -275,17 +275,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第五节:C++数组篇</title>
-    <link href="https://sunhaha520.github.io/2021/08/11/%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AC-%E6%95%B0%E7%BB%84%E7%AF%87/"/>
-    <id>https://sunhaha520.github.io/2021/08/11/%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AC-%E6%95%B0%E7%BB%84%E7%AF%87/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/11/%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AC-%E6%95%B0%E7%BB%84%E7%AF%87/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/11/%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AC-%E6%95%B0%E7%BB%84%E7%AF%87/</id>
     <published>2021-08-11T07:03:10.000Z</published>
     <updated>2021-12-01T08:35:51.615Z</updated>
     
@@ -294,17 +294,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第四节:C++程序流程结构</title>
-    <link href="https://sunhaha520.github.io/2021/08/11/C%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E7%BB%93%E6%9E%84/"/>
-    <id>https://sunhaha520.github.io/2021/08/11/C%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E7%BB%93%E6%9E%84/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/11/C%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E7%BB%93%E6%9E%84/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/11/C%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E7%BB%93%E6%9E%84/</id>
     <published>2021-08-11T00:46:31.000Z</published>
     <updated>2021-12-01T08:21:00.534Z</updated>
     
@@ -313,17 +313,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第三节:C++中的运算符</title>
-    <link href="https://sunhaha520.github.io/2021/08/11/C%E4%B8%AD%E7%9A%84%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
-    <id>https://sunhaha520.github.io/2021/08/11/C%E4%B8%AD%E7%9A%84%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/11/C%E4%B8%AD%E7%9A%84%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/11/C%E4%B8%AD%E7%9A%84%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
     <published>2021-08-11T00:39:02.000Z</published>
     <updated>2021-12-01T08:33:17.483Z</updated>
     
@@ -332,17 +332,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第二节:C++数据类型</title>
-    <link href="https://sunhaha520.github.io/2021/08/11/C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
-    <id>https://sunhaha520.github.io/2021/08/11/C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/11/C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/11/C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
     <published>2021-08-11T00:30:02.000Z</published>
     <updated>2021-12-01T08:32:07.274Z</updated>
     
@@ -351,17 +351,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>第一节:C++初识</title>
-    <link href="https://sunhaha520.github.io/2021/08/11/C%E5%88%9D%E8%AF%86/"/>
-    <id>https://sunhaha520.github.io/2021/08/11/C%E5%88%9D%E8%AF%86/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/11/C%E5%88%9D%E8%AF%86/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/11/C%E5%88%9D%E8%AF%86/</id>
     <published>2021-08-11T00:04:01.000Z</published>
     <updated>2021-12-01T08:22:44.301Z</updated>
     
@@ -370,17 +370,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://sunhaha520.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.xiaoayu.ren/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="🏆C++" scheme="https://sunhaha520.github.io/tags/%F0%9F%8F%86C/"/>
+    <category term="🏆C++" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%8F%86C/"/>
     
   </entry>
   
   <entry>
     <title>hello world</title>
-    <link href="https://sunhaha520.github.io/2021/08/10/hello-world-1/"/>
-    <id>https://sunhaha520.github.io/2021/08/10/hello-world-1/</id>
+    <link href="https://blog.xiaoayu.ren/2021/08/10/hello-world-1/"/>
+    <id>https://blog.xiaoayu.ren/2021/08/10/hello-world-1/</id>
     <published>2021-08-10T13:09:37.000Z</published>
     <updated>2021-12-01T08:37:38.045Z</updated>
     
@@ -395,10 +395,10 @@
     
     
     
-    <category term="生活感悟" scheme="https://sunhaha520.github.io/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
+    <category term="生活感悟" scheme="https://blog.xiaoayu.ren/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
     
     
-    <category term="🐷测试" scheme="https://sunhaha520.github.io/tags/%F0%9F%90%B7%E6%B5%8B%E8%AF%95/"/>
+    <category term="🐷测试" scheme="https://blog.xiaoayu.ren/tags/%F0%9F%90%B7%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
